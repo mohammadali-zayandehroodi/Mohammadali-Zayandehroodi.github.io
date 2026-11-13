@@ -1,21 +1,9 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://mohammadali-zayandehroodi.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://mohammadali-zayandehroodi.github.io/publications/</loc>
-  </url>
-  <url>
-    <loc>https://mohammadali-zayandehroodi.github.io/research/</loc>
-  </url>
-  <url>
-    <loc>https://mohammadali-zayandehroodi.github.io/cv/</loc>
-  </url>
-  <url>
-    <loc>https://mohammadali-zayandehroodi.github.io/awards/</loc>
-  </url>
-  <url>
-    <loc>https://mohammadali-zayandehroodi.github.io/teaching/</loc>
-  </url>
+  <url><loc>https://mohammadali-zayandehroodi.github.io/</loc></url>
+  <url><loc>https://mohammadali-zayandehroodi.github.io/publications/</loc></url>
+  <url><loc>https://mohammadali-zayandehroodi.github.io/research/</loc></url>
+  <url><loc>https://mohammadali-zayandehroodi.github.io/cv/</loc></url>
+  <url><loc>https://mohammadali-zayandehroodi.github.io/awards/</loc></url>
+  <url><loc>https://mohammadali-zayandehroodi.github.io/teaching/</loc></url>
 </urlset>
